@@ -1,6 +1,6 @@
 {
-  "operator_title": "ThundyPhone",
-  "email_suffix": "@phone.com",
+  "operator_title": "Libra",
+  "email_suffix": "@libra.it",
   "voicemails_number": "190",
   "colors": [
     "#EF5350",
@@ -292,14 +292,14 @@
   ],
 
   "time": [
-    "Now",
-    ["%s second ago", "%s seconds ago"],
-    ["%s minute ago", "%s minutes ago"],
-    ["%s hour ago", "%s hours ago"],
-    ["%s day ago", "%s days ago"],
-    ["%s week ago", "%s weeks ago"],
-    ["%s month ago", "%s months ago"],
-    ["%s year ago", "%s years ago"]
+    "Ora",
+    ["%s secondo fa", "%s secondi fa"],
+    ["%s minuto fa", "%s minuti fa"],
+    ["%s ora fa", "%s ore fa"],
+    ["%s giorno fa", "%s giorni fa"],
+    ["%s settimana fa", "%s settimane fa"],
+    ["%s mese fa", "%s mesi fa"],
+    ["%s anno fa", "%s anni fa"]
   ],
 
   "language": {}
